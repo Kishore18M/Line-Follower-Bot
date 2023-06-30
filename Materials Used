@@ -1,0 +1,13 @@
+To build a line follower robot with 3 IR sensors and 2 motors, you will need the following materials:
+
+1. Arduino Uno Board 
+2. Motor driver module ( L293D or L298N)
+3. 3-IR sensors (Infrared sensors) 
+4. 2-DC motors
+5. Chassis or platform to mount the robot
+6. Wheels for the motors (provided with the DC motors)
+7. Jumper wires for connections
+8. Battery holder or power supply (depending on the voltage and current requirements of your motors)
+9. Connecting wires for the power supply and motor connections
+
+These are the basic materials we used for building the line follower robot. You may also need additional screws, nuts, and mechanical components depending on the chassis or platform you choose.
